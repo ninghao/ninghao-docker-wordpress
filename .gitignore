@@ -66,3 +66,5 @@ db/
 app/wp-content/uploads
 app/wp-content/demo
 config/cert
+
+app/wp-content/
