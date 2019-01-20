@@ -20,3 +20,7 @@ Open your system terimal, go to the project directory, and run following command
 ```
 docker-compose up -d
 ```
+
+![Install WordPress](https://github.com/ninghao/ninghao-docker-wordpress/blob/master/public/screenshot-install-wp.png?raw=true "Screenshot for install WordPress")
+
+
