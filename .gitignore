@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# Project
+.DS_store
+db/
+app/wp-content/uploads
+app/wp-content/demo
+config/cert
