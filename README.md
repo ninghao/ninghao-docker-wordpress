@@ -21,6 +21,13 @@ Open your system terimal, go to the project directory, and run following command
 docker-compose up -d
 ```
 
+##WP CLI
+Change w-store_wordpress_1 to your WordPress container name.
+
+```
+docker run -it --rm  --volumes-from w-store_wordpress_1  --network container:w-store_wordpress_1  wordpress:cli user list
+```
+
 ![Install WordPress](https://github.com/ninghao/ninghao-docker-wordpress/blob/master/public/screenshot-install-wp.png?raw=true "Screenshot for install WordPress")
 
 
